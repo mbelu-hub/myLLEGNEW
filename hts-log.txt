@@ -1,0 +1,14 @@
+HTTrack3.49-2 launched on Mon, 10 Mar 2025 15:58:28 at https://agrimo-demo.pbminfotech.com/html-demo/
+(winhttrack https://agrimo-demo.pbminfotech.com/html-demo/ -W -O "/Users/adonis/websites/site00" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:58:32	Warning: 	Note: due to https://agrimo-demo.pbminfotech.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+16:06:42	Error: 	"Not Found" (404) at link https://agrimo-demo.pbminfotech.com/html-demo/portfolio-detail.htmls (from https://agrimo-demo.pbminfotech.com/html-demo/portfolio-masonry-col-3.html)
+16:06:42	Error: 	"Not Found" (404) at link https://agrimo-demo.pbminfotech.com/html-demo/blog-single-details.html (from https://agrimo-demo.pbminfotech.com/html-demo/blog-classic.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 15 seconds : 273 links scanned, 270 files written (27656471 bytes overall) [26855880 bytes received at 54254 bytes/sec], 1261410 bytes transferred using HTTP compression in 32 files, ratio 23%
+(2 errors, 1 warnings, 0 messages)
